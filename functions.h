@@ -13,4 +13,6 @@ int sumOfEachColumn(const int[][GRID_SIZE]);
 int sumOfDiagonalTopLeftToRight(const int[][GRID_SIZE]);
 int sumOfDiagonalTopRightToLeft(const int[][GRID_SIZE]);
 
+void printArray(const int[][GRID_SIZE]);
+
 #endif  // FUNCTIONS_H_
